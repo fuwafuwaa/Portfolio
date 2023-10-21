@@ -14,7 +14,7 @@ Introduction
 </details>
 
 <details>
-  <sumary>Click to expand</sumary>
+  <summary>Click to expand</summary>
   Hidden content
 </details>
 
