@@ -2,8 +2,14 @@
 Documentation of my knowledge / way of doing things
 
 ## Introduction
-Introduction
 
+## Topics 
+
+## Myself
+
+
+
+## Trash
 [link](README.md)
 [link](README.md)
 
