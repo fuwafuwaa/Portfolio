@@ -20,9 +20,3 @@ Creating various games as a way to build my portfolio.
 Looking into finding a job as game developer.
 My objective is to learn a lot and hopefully someday be part of a game im proud of. 
 
-
-## Trash
-[link](README.md)
-[link](README.md)
-
-
