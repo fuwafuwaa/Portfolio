@@ -13,6 +13,7 @@ Projects being used by people.
   Games without focus on visuals nor fun, having the objective of learning code and others.
   This games are not intended to be played.
 </details>
+
 ## About me
 Aspiring gamedev, focused on programming. 
 Creating various games as a way to build my portfolio. 
