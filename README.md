@@ -1,6 +1,13 @@
 ## Introduction
-Personal documentation where i save part of my knowledge and way of doing things. For example project and scripts structure. 
-## Topics
+This is my Portfolio where i talk about my objectives.<br>
+Have my [Personal Documentation]().<br>
+And have a list of my projects.
+
+## Documentation 
+I try saving part of my knowledge and my way of doing things, for example structuring projects and scripts. Explaining the reasons behind my decisions.
+<br><br>
+
+[Click here for Documentation]()
 
 ## Projects
 <details>
